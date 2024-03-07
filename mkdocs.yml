@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Vojtěch Kadlec
+
+nav:
+  - Úvod: 'index.md'
+  - Maturita Ma: 'maturita.md'
+  - WA 24. 11.: 'tabule.md'
