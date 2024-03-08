@@ -1,6 +1,6 @@
 # Hodina 24.11.
 
-![Tabule] (tabule.jpg) "Tabule z hodiny"
+![Tabule] (tabule.jpg "Tabule z hodiny")
 
 ## Poznatky z hodiny
 
